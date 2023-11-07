@@ -1,0 +1,16 @@
+{
+  "name": "complete_nodelearning",
+  "version": "1.0.0",
+  "description": "Building node application from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "underscore": "^1.13.6"
+  }
+}
